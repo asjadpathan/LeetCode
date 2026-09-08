@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/asjadpathan/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/asjadpathan/LeetCode/tree/master/0231-power-of-two) |
 | [1518-water-bottles](https://github.com/asjadpathan/LeetCode/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asjadpathan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/asjadpathan/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/asjadpathan/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
