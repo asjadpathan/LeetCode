@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/asjadpathan/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/asjadpathan/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -48,8 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asjadpathan/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/asjadpathan/LeetCode/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/asjadpathan/LeetCode/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/asjadpathan/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
