@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/asjadpathan/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/asjadpathan/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/asjadpathan/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/asjadpathan/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/asjadpathan/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/asjadpathan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/asjadpathan/LeetCode/tree/master/1518-water-bottles) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/asjadpathan/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asjadpathan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/asjadpathan/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
